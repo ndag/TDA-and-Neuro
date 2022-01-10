@@ -15,3 +15,34 @@ Here are some useful papers for reference:
 
 (3) Evaluating State Space Discovery by Persistent Cohomology in the Spatial Representation System. https://www.frontiersin.org/articles/10.3389/fncom.2021.616748/full
 
+(4) Some more papers: A bibliography by Chad Giusti, http://www.chadgiusti.com/bib.html .
+
+## Schedule
+
+Class 1. 1/11/2022. Brief discussion and introduction. Facundo Mémoli.
+
+Class 2. 1/18/2022. Introduction to Persistence. Facundo Mémoli.
+
+Class 3. 1/25/2022. Multiparameter persistence. Alex McCleary.
+
+Class 4. 2/1/2022. Introduction to RIVET and ZigZag Persistence. Nate Clause.
+
+Class 5. 2/8/2022. The importance of forgetting. Brantley Vose.
+
+Class 6. 2/15/2022. TBA. Ling Zhou.
+
+Class 7. 2/22/2022. TBA.
+
+Class 8. 3/1/2022. TBA.
+
+Class 9. 3/8/2022. TBA.
+
+Class 10. 3/22/2022. TBA.
+
+Class 11. 3/29/2022. TBA.
+
+Class 12. 4/5/2022. TBA.
+
+Class 13. 4/12/2022. TBA.
+
+Class 14. 4/19/2022. TBA.
