@@ -1,7 +1,15 @@
 # Topological Data Analysis in Neuroscience (TDA+Neuro)
 
 ## Description/contents: 
-In recent years ideas from TDA have been increasingly adopted in order to analyze neuroscientific data. Of particular interest are TDA techniques which can summarize the information contained in the joint activation patterns of ensmebles of neurons. This topic course will overview the main ideas in this field.
+In recent years, ideas from TDA have been increasingly adopted in order to analyze neuroscientific data. Of particular interest are TDA techniques which can summarize the information contained in the joint activation patterns of ensmebles of neurons. This topic course will overview the main ideas in this field.
+
+
+![tda+neuro filtration](https://user-images.githubusercontent.com/25011329/148897433-121fe6ab-641a-4533-aa68-bb9960de86f0.png)
+
+
+<p align = "center">
+Figure 1. A filtration on a data set.
+</p>
 
 ## Prerequisites: 
 Basic familiarity with data analysis principles and with linear algebra. Familiarity with topological data analysis will be beneficial.
@@ -19,17 +27,17 @@ Here are some useful papers for reference:
 
 ## Schedule
 
-Class 1. 1/11/2022. Brief discussion and introduction. Facundo Mémoli.
+Class 1. 1/11/2022. Brief discussion and introduction. Lecture by Facundo Mémoli.
 
-Class 2. 1/18/2022. Introduction to Persistence. Facundo Mémoli.
+Class 2. 1/18/2022. Introduction to Persistence. Lecture by Facundo Mémoli.
 
-Class 3. 1/25/2022. Multiparameter persistence. Alex McCleary.
+Class 3. 1/25/2022. Multiparameter persistence. Lecture by Alex McCleary.
 
-Class 4. 2/1/2022. Introduction to RIVET and ZigZag Persistence. Nate Clause.
+Class 4. 2/1/2022. Introduction to RIVET and ZigZag Persistence. Lecture by Nate Clause.
 
-Class 5. 2/8/2022. The importance of forgetting. Brantley Vose.
+Class 5. 2/8/2022. The importance of forgetting. Lecture by Brantley Vose.
 
-Class 6. 2/15/2022. TBA. Ling Zhou.
+Class 6. 2/15/2022. TBA. Lecture by Ling Zhou.
 
 Class 7. 2/22/2022. TBA.
 
