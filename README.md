@@ -17,13 +17,15 @@ Basic familiarity with data analysis principles and with linear algebra. Familia
 ## Some Resources: 
 Here are some useful papers for reference:
 
-(1) A Topological Paradigm for Hippocampal Spatial Map Formation Using Persistent Homology. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002581
+(1) Cell groups reveal structure of stimulus space. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000205 
 
-(2) The importance of forgetting: Limiting memory improves recovery of topological characteristics from neural data. https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0202561
+(2) A Topological Paradigm for Hippocampal Spatial Map Formation Using Persistent Homology. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002581
 
-(3) Evaluating State Space Discovery by Persistent Cohomology in the Spatial Representation System. https://www.frontiersin.org/articles/10.3389/fncom.2021.616748/full
+(3) The importance of forgetting: Limiting memory improves recovery of topological characteristics from neural data. https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0202561
 
-(4) Some more papers: A bibliography by Chad Giusti, http://www.chadgiusti.com/bib.html .
+(4) Evaluating State Space Discovery by Persistent Cohomology in the Spatial Representation System. https://www.frontiersin.org/articles/10.3389/fncom.2021.616748/full
+
+(5) Some more papers: A bibliography by Chad Giusti, http://www.chadgiusti.com/bib.html .
 
 ## Schedule
 
