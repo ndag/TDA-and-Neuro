@@ -25,15 +25,27 @@ Here are some useful papers for reference:
 
 (4) Evaluating State Space Discovery by Persistent Cohomology in the Spatial Representation System. https://www.frontiersin.org/articles/10.3389/fncom.2021.616748/full
 
-(5) Some more papers: A bibliography by Chad Giusti, http://www.chadgiusti.com/bib.html .
+(5) Flexible Memory Networks. https://link.springer.com/article/10.1007/s11538-011-9678-9
+
+(6) What can topology tell us about the neural code? https://www.ams.org/journals/bull/2017-54-01/S0273-0979-2016-01554-0/
+
+(7) Clique topology reveals intrinsic geometric structure in neural correlations. https://www.pnas.org/content/112/44/13455 
+
+(8) Towards a new approach to reveal dynamical organization of the brain using topological data analysis. https://www.nature.com/articles/s41467-018-03664-4
+
+(9) Cliques and cavities in the human connectome. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769855/
+
+(10) Some more papers: A bibliography by Chad Giusti, http://www.chadgiusti.com/bib.html .
+
+
 
 ## Schedule
 
-Class 1. 1/11/2022. Brief discussion and introduction. Lecture by Facundo Mémoli.
+Class 1. 1/11/2022. Brief discussion and introduction. Lecture by Facundo Mémoli. [Lecture 1 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%201%201-11-2022.pdf)
 
 Class 2. 1/18/2022. Introduction to Persistence. Lecture by Facundo Mémoli.
 
-Class 3. 1/25/2022. Multiparameter persistence. Lecture by Alex McCleary.
+Class 3. 1/25/2022. Multiparameter persistence. Lecture by Alex McCleary. [Lecture 3 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%203%201-25-2022.pdf)
 
 Class 4. 2/1/2022. Introduction to RIVET and ZigZag Persistence. Lecture by Nate Clause.
 
