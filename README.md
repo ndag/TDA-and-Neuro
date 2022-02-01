@@ -63,12 +63,12 @@ Class 8. 3/1/2022. Cliques of Neurons Bound into Cavities Provide a Missing Link
 
 Class 9. 3/8/2022. TBA. Lecture by Aziz Guelen.
 
-Class 10. 3/22/2022. TBA.
+Class 10. 3/22/2022. TBA. Lecture by Shreeya Behera.
 
-Class 11. 3/29/2022. TBA.
+Class 11. 3/29/2022. TBA. Lecture by Daiyuan Li.
 
-Class 12. 4/5/2022. TBA.
+Class 12. 4/5/2022. TBA. Lecture by Jay Patel.
 
-Class 13. 4/12/2022. TBA.
+Class 13. 4/12/2022. TBA. Lecture by Jesse He.
 
 Class 14. 4/19/2022. Wrap-Up.
