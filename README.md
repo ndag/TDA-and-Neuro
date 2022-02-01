@@ -35,7 +35,11 @@ Here are some useful papers for reference:
 
 (9) Cliques and cavities in the human connectome. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769855/
 
-(10) Some more papers: A bibliography by Chad Giusti, http://www.chadgiusti.com/bib.html .
+(10)  Homological scaffolds of brain functional networks. https://royalsocietypublishing.org/doi/10.1098/rsif.2014.0873
+
+(11) Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function. https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full#h10
+
+(12) Some more papers: A bibliography by Chad Giusti, http://www.chadgiusti.com/bib.html .
 
 
 
