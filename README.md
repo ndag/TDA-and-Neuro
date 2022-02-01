@@ -59,7 +59,7 @@ Class 6. 2/15/2022. TBA. Lecture by Ling Zhou.
 
 Class 7. 2/22/2022. TBA.
 
-Class 8. 3/1/2022. TBA.
+Class 8. 3/1/2022. Amber Wu. TBA.
 
 Class 9. 3/8/2022. TBA.
 
