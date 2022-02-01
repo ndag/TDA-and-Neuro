@@ -59,7 +59,7 @@ Class 6. 2/15/2022. TBA. Lecture by Ling Zhou.
 
 Class 7. 2/22/2022. Flexible Memory Networks. Lecture by Viktor Giordano.
 
-Class 8. 3/1/2022. Amber Wu. TBA.
+Class 8. 3/1/2022. Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function. Lecture by Amber Wu.
 
 Class 9. 3/8/2022. TBA.
 
