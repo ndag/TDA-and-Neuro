@@ -57,7 +57,7 @@ Class 5. 2/8/2022. The importance of forgetting. Lecture by Brantley Vose.
 
 Class 6. 2/15/2022. TBA. Lecture by Ling Zhou.
 
-Class 7. 2/22/2022. TBA.
+Class 7. 2/22/2022. Flexible Memory Networks. Lecture by Viktor Giordano.
 
 Class 8. 3/1/2022. Amber Wu. TBA.
 
