@@ -68,11 +68,10 @@ Class 9. 3/8/2022. Cliques and cavities in the human connectome. Lecture by Aziz
 
 Class 10. 3/22/2022. TBA. Lecture by Shreeya Behera.
 
-Class 11. 3/29/2022. Hyperbolic geometry of the olfactory space. Lecture by Daiyuan Li. 
-
+Class 11. 3/29/2022. TBA. Lecture by Jesse He.
 
 Class 12. 4/5/2022. TBA. Lecture by Jay Patel.
 
-Class 13. 4/12/2022. TBA. Lecture by Jesse He.
+Class 13. 4/12/2022. 3/29/2022. Hyperbolic geometry of the olfactory space. Lecture by Daiyuan Li. 
 
 Class 14. 4/19/2022. Wrap-Up.
