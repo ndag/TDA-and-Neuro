@@ -21,7 +21,7 @@ Here are some useful papers for reference:
 
 (2) A Topological Paradigm for Hippocampal Spatial Map Formation Using Persistent Homology. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002581
 
-(3) The importance of forgetting: Limiting memory improves recovery of topological characteristics from neural data. https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0202561
+(3) The importance of forgetting: Limiting memory improves recovery of topological characteristics from neural data. (2018) https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0202561
 
 (4) Evaluating State Space Discovery by Persistent Cohomology in the Spatial Representation System. https://www.frontiersin.org/articles/10.3389/fncom.2021.616748/full
 
@@ -39,7 +39,10 @@ Here are some useful papers for reference:
 
 (11) Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function. https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full#h10
 
-(12) Some more papers: A bibliography by Chad Giusti, http://www.chadgiusti.com/bib.html .
+
+(12) The importance of forgetting. (2019). https://media.nature.com/original/magazine-assets/d41586-019-02211-5/d41586-019-02211-5.pdf
+
+(13) Some more papers: A bibliography by Chad Giusti, http://www.chadgiusti.com/bib.html .
 
 
 
