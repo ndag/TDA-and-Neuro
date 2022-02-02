@@ -68,7 +68,7 @@ Class 9. 3/8/2022. Cliques and cavities in the human connectome. Lecture by Aziz
 
 Class 10. 3/22/2022. TBA. Lecture by Shreeya Behera.
 
-Class 11. 3/29/2022. TBA. Lecture by Jesse He.
+Class 11. 3/29/2022. Homological scaffolds of brain functional networks. Lecture by Jesse He.
 
 Class 12. 4/5/2022. TBA. Lecture by Jay Patel.
 
