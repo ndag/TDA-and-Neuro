@@ -51,7 +51,7 @@ Class 2. 1/18/2022. Introduction to Persistence. Lecture by Facundo Mémoli.
 
 Class 3. 1/25/2022. Multiparameter persistence. Lecture by Alex McCleary. [Lecture 3 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%203%201-25-2022.pdf)
 
-Class 4. 2/1/2022. Introduction to RIVET and ZigZag Persistence. Lecture by Nate Clause.
+Class 4. 2/1/2022. Introduction to RIVET and ZigZag Persistence. Lecture by Nate Clause. [Lecture 4 Slides.](https://github.com/ndag/TDA-and-Neuro/tree/main/Lecture%204%202-1-2022)
 
 Class 5. 2/8/2022. The importance of forgetting. Lecture by Brantley Vose.
 
@@ -61,7 +61,7 @@ Class 7. 2/22/2022. Flexible Memory Networks. Lecture by Viktor Giordano.
 
 Class 8. 3/1/2022. Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function. Lecture by Amber Wu.
 
-Class 9. 3/8/2022. TBA. Lecture by Aziz Guelen.
+Class 9. 3/8/2022. Cliques and cavities in the human connectome. Lecture by Aziz Guelen.
 
 Class 10. 3/22/2022. TBA. Lecture by Shreeya Behera.
 
