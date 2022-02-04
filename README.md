@@ -66,7 +66,7 @@ Class 8. 3/1/2022. Cliques of Neurons Bound into Cavities Provide a Missing Link
 
 Class 9. 3/8/2022. Cliques and cavities in the human connectome. Lecture by Aziz Guelen.
 
-Class 10. 3/22/2022. TBA. Lecture by Shreeya Behera.
+Class 10. 3/22/2022. The topology of the directed clique complex as a network invariant. Lecture by Shreeya Behera.
 
 Class 11. 3/29/2022. Homological scaffolds of brain functional networks. Lecture by Jesse He.
 
