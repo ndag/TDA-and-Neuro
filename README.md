@@ -70,7 +70,7 @@ Class 10. 3/22/2022. The topology of the directed clique complex as a network in
 
 Class 11. 3/29/2022. Homological scaffolds of brain functional networks. Lecture by Jesse He.
 
-Class 12. 4/5/2022. TBA. Lecture by Jay Patel.
+Class 12. 4/5/2022. Towards a new approach to reveal dynamical organization of the brain using topological data analysis. Lecture by Jay Patel.
 
 Class 13. 4/12/2022. 3/29/2022. Hyperbolic geometry of the olfactory space. Lecture by Daiyuan Li. 
 
