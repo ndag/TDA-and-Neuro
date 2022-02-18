@@ -56,9 +56,9 @@ Class 3. 1/25/2022. Multiparameter persistence. Lecture by Alex McCleary. [Lectu
 
 Class 4. 2/1/2022. Introduction to RIVET and ZigZag Persistence. Lecture by Nate Clause. [Lecture 4 Slides.](https://github.com/ndag/TDA-and-Neuro/tree/main/Lecture%204%202-1-2022)
 
-Class 5. 2/8/2022. The importance of forgetting. Lecture by Brantley Vose.
+Class 5. 2/8/2022. The importance of forgetting. Lecture by Brantley Vose. [Lecture 5 Slides.](https://github.com/ndag/TDA-and-Neuro/tree/main/Lecture%205%202-8-2022)
 
-Class 6. 2/15/2022. Persistent cohomology and an application in neuroscience (Evaluating State Space Discovery by Persistent Cohomology in the Spatial Representation System). Lecture by Ling Zhou.
+Class 6. 2/15/2022. Persistent cohomology and an application in neuroscience (Evaluating State Space Discovery by Persistent Cohomology in the Spatial Representation System). Lecture by Ling Zhou. [Lecture 6 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%206%202-15-2022.pdf)
 
 Class 7. 2/22/2022. Flexible Memory Networks. Lecture by Viktor Giordano.
 
