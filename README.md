@@ -66,9 +66,9 @@ Class 8. 3/1/2022. Cliques of Neurons Bound into Cavities Provide a Missing Link
 
 Class 9. 3/8/2022. Cliques and cavities in the human connectome. Lecture by Aziz Burak Guelen. [Lecture 9 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%209%203-8-2022.pdf)
 
-Class 10. 3/22/2022. The topology of the directed clique complex as a network invariant. Lecture by Shreeya Behera.
+Class 10. 3/22/2022. The topology of the directed clique complex as a network invariant. Lecture by Shreeya Behera. [Lecture 10 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%2010%203-22-2022.pdf)
 
-Class 11. 3/29/2022. Homological scaffolds of brain functional networks. Lecture by Jesse He.
+Class 11. 3/29/2022. Homological scaffolds of brain functional networks. Lecture by Jesse He. [Lecture 11 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%2011%203-29-2022.pdf)
 
 Class 12. 4/5/2022. Towards a new approach to reveal dynamical organization of the brain using topological data analysis. Lecture by Jay Patel.
 
