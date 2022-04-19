@@ -64,7 +64,7 @@ Class 7. 2/22/2022. Flexible Memory Networks. Lecture by Viktor Giordano.
 
 Class 8. 3/1/2022. Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function. Lecture by Amber Wu.
 
-Class 9. 3/8/2022. Cliques and cavities in the human connectome. Lecture by Aziz Guelen.
+Class 9. 3/8/2022. Cliques and cavities in the human connectome. Lecture by Aziz Burak Guelen. [Lecture 9 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%209%203-8-2022.pdf)
 
 Class 10. 3/22/2022. The topology of the directed clique complex as a network invariant. Lecture by Shreeya Behera.
 
