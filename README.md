@@ -60,9 +60,9 @@ Class 5. 2/8/2022. The importance of forgetting. Lecture by Brantley Vose. [Lect
 
 Class 6. 2/15/2022. Persistent cohomology and an application in neuroscience (Evaluating State Space Discovery by Persistent Cohomology in the Spatial Representation System). Lecture by Ling Zhou. [Lecture 6 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%206%202-15-2022.pdf)
 
-Class 7. 2/22/2022. Flexible Memory Networks. Lecture by Viktor Giordano.
+Class 7. 2/22/2022. Flexible Memory Networks. Lecture by Viktor Giordano. [Lecture 7 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%207%202-22-2022.pdf)
 
-Class 8. 3/1/2022. Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function. Lecture by Amber Wu.
+Class 8. 3/1/2022. Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function. Lecture by Amber Wu. [Lecture 8 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%208%203-1-2022.pdf)
 
 Class 9. 3/8/2022. Cliques and cavities in the human connectome. Lecture by Aziz Burak Guelen. [Lecture 9 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%209%203-8-2022.pdf)
 
@@ -70,7 +70,7 @@ Class 10. 3/22/2022. The topology of the directed clique complex as a network in
 
 Class 11. 3/29/2022. Homological scaffolds of brain functional networks. Lecture by Jesse He. [Lecture 11 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%2011%203-29-2022.pdf)
 
-Class 12. 4/5/2022. Towards a new approach to reveal dynamical organization of the brain using topological data analysis. Lecture by Jay Patel.
+Class 12. 4/5/2022. Towards a new approach to reveal dynamical organization of the brain using topological data analysis. Lecture by Jay Patel. [Lecture 12 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%2012%204-5-2022.pdf)
 
 Class 13. 4/12/2022. 3/29/2022. Hyperbolic geometry of the olfactory space. Lecture by Daiyuan Li. 
 
