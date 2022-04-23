@@ -72,6 +72,6 @@ Class 11. 3/29/2022. Homological scaffolds of brain functional networks. Lecture
 
 Class 12. 4/5/2022. Towards a new approach to reveal dynamical organization of the brain using topological data analysis. Lecture by Jay Patel. [Lecture 12 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%2012%204-5-2022.pdf)
 
-Class 13. 4/12/2022. Hyperbolic geometry of the olfactory space. Lecture by Daiyuan Li. 
+Class 13. 4/12/2022. Hyperbolic geometry of the olfactory space. Lecture by Daiyuan Li. [Lecture 13 Slides.](https://github.com/ndag/TDA-and-Neuro/blob/main/Lecture%2013%204-12-2022.pdf)
 
-Class 14. 4/19/2022. Wrap-Up.
+Class 14. 4/19/2022. Mapper Platforms for Computational Neuroimaging. Guest lecture by Dr. Samir Chowdhury. 
